@@ -1,3 +1,3 @@
 # Workshop How to build streaming applications with Confluent Cloud (step-by-step guide)
 
-Open PDF file with the guide and follow it along.
+Open the PDF guide at <a href="https://github.com/ifnesi/ksqldb-cc-workshop/blob/main/Workshop%20How%20to%20build%20streaming%20applications%20with%20Confluent%20Cloud%20(step-by-step%20guide).pdf" target="_new">Workshop How to build streaming applications with Confluent Cloud (step-by-step guide).pdf</a> and follow it along.
